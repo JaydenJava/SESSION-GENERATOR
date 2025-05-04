@@ -59,23 +59,20 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Qr Code By Jayden Java_*
-*_Made With 🤍_*
-______________________________________
-*_Pair Code Connected by Jayden Java_*
+*_Session Connected By Jayden Java_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW, THANKS FOR USING JAYDEN-MD 』*
+║ *『WOW, THANKS FOR USING JAYDEN-MD』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
-╚══════════════════════╝
+╚════════════════════════╝
 ╔═════◇
-║  『••• *FIND THE CREATOR VIA* •••』
+║  『••• *CONTACT THE OWNER VIA* •••』
 ║❒ *Owner:* _https://wa.me/+256745944178_
 ║❒ *Repo:* _https://github.com/JaydenJava/JAYDEN-MD_
 ║❒ *Telegram:* _https://t.me/JaydenJava2
-║❒ *WaGroup:* _https://chat.whatsapp.com/EMI9FGpIQh57uHlHCRDb7D_
-╚══════════════════════╝ 
+║❒ *WaGroup:* _https://chat.whatsapp.com/EMI9FGpIQh57uHlHCRDb7D_ 
+╚════════════════════════╝
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
