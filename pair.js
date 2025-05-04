@@ -65,7 +65,7 @@ ______________________________________
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
-║  『••• •••』
+║  『••• *CONTACT THE OWNER VIA* •••』
 ║❒ *Owner:* _https://wa.me/256745944178_
 ║❒ *Repo:* _https://github.com/JaydenJava/JAYDEN-MD
 ║❒ *WaGroup:* _https://chat.whatsapp.com/EMI9FGpIQh57uHlHCRDb7D
